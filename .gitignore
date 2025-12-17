@@ -1,0 +1,23 @@
+# 可执行文件
+*.out
+*.exe
+test_gdb
+test_leak
+demo_quant
+
+# 中间文件
+*.o
+*.obj
+
+# IDE配置
+.vscode/
+.idea/
+.clion/
+
+# 日志文件
+log/
+*.log
+
+# 个人配置文件
+local_config.ini
+db_config_secret.ini
